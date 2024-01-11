@@ -1,2 +1,2 @@
-python
-flask
+python==3.8
+flask==2.2.5
