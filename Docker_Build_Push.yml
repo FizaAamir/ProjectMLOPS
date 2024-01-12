@@ -24,4 +24,4 @@ jobs:
           registry: https://index.docker.io/v1/
 
       - name: Build Docker image
-        run: docker buildx build -t fizaaamir/FruitPrediction_image --push .
+        run: docker buildx build -t fizaaamir/projimage --push .
